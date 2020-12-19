@@ -1,0 +1,5 @@
+{{#seleccion}}
+{{nombre}}
+{{seleccion}}
+
+{{/seleccion}}
